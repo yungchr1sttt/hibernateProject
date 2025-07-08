@@ -1,0 +1,1516 @@
+[2025-06-30 15:24:44, 609] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 34] User object is transient state: User(username=ivan99@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN)
+[2025-06-30 15:24:44, 741] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-06-30 15:24:45, 414] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-06-30 15:24:45, 717] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-06-30 15:24:45, 739] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-06-30 15:24:46, 827] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-06-30 15:32:31, 534] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 34] User object is transient state: User(id=null, username=ivan99@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN)
+[2025-06-30 15:32:31, 646] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-06-30 15:32:32, 218] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-06-30 15:32:32, 598] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-06-30 15:32:32, 617] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-06-30 15:32:33, 641] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-06-30 15:33:08, 834] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 34] User object is transient state: User(id=null, username=ivan@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN)
+[2025-06-30 15:33:08, 955] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-06-30 15:33:09, 535] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-06-30 15:33:09, 905] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-06-30 15:33:09, 925] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-06-30 15:33:10, 935] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-06-30 15:39:39, 514] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 34] User object is transient state: User(id=null, username=ivan@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN)
+[2025-06-30 15:39:39, 641] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-06-30 15:39:40, 238] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-06-30 15:39:40, 506] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-06-30 15:39:40, 526] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-06-30 15:39:41, 546] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-06-30 16:40:52, 737] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 37] User object is transient state: User(id=null, username=ivan@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN, company=Company(id=null, name=Google))
+[2025-06-30 16:40:52, 858] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-06-30 16:40:53, 443] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-06-30 16:40:53, 721] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-06-30 16:40:53, 742] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-06-30 16:40:54, 818] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-06-30 16:40:54, 934] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 42P01
+[2025-06-30 16:40:54, 934] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: отношение "user_gen" не существует
+  Позиция: 16
+[2025-06-30 16:40:54, 942] ERROR [by.yungchr1sttt.hibernate.HibernateRunner: 49] Exception occurred
+org.hibernate.exception.SQLGrammarException: could not extract ResultSet [ОШИБКА: отношение "user_gen" не существует
+  Позиция: 16] [select nextval('user_gen')]
+	at org.hibernate.exception.internal.SQLStateConversionDelegate.convert(SQLStateConversionDelegate.java:63)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:34)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:115)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:69)
+	at org.hibernate.id.enhanced.SequenceStructure$1.getNextValue(SequenceStructure.java:121)
+	at org.hibernate.id.enhanced.PooledOptimizer.generate(PooledOptimizer.java:76)
+	at org.hibernate.id.enhanced.SequenceStyleGenerator.generate(SequenceStyleGenerator.java:542)
+	at org.hibernate.id.IdentifierGenerator.generate(IdentifierGenerator.java:135)
+	at org.hibernate.event.internal.AbstractSaveEventListener.generateId(AbstractSaveEventListener.java:156)
+	at org.hibernate.event.internal.AbstractSaveEventListener.saveWithGeneratedId(AbstractSaveEventListener.java:121)
+	at org.hibernate.event.internal.DefaultMergeEventListener.saveTransientEntity(DefaultMergeEventListener.java:375)
+	at org.hibernate.event.internal.DefaultMergeEventListener.entityIsTransient(DefaultMergeEventListener.java:296)
+	at org.hibernate.event.internal.DefaultMergeEventListener.merge(DefaultMergeEventListener.java:208)
+	at org.hibernate.event.internal.DefaultMergeEventListener.doMerge(DefaultMergeEventListener.java:149)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:133)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:89)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:140)
+	at org.hibernate.internal.SessionImpl.fireMerge(SessionImpl.java:802)
+	at org.hibernate.internal.SessionImpl.merge(SessionImpl.java:788)
+	at by.yungchr1sttt.hibernate.HibernateRunner.main(HibernateRunner.java:45)
+Caused by: org.postgresql.util.PSQLException: ОШИБКА: отношение "user_gen" не существует
+  Позиция: 16
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2734)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2421)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:372)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:518)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:435)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:196)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:139)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:58)
+	... 16 more
+[2025-06-30 16:41:45, 256] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 37] User object is transient state: User(id=null, username=ivan@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN, company=Company(id=null, name=Google))
+[2025-06-30 16:41:45, 370] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-06-30 16:41:45, 934] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-06-30 16:41:46, 302] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-06-30 16:41:46, 321] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-06-30 16:41:47, 367] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-06-30 16:41:47, 488] ERROR [by.yungchr1sttt.hibernate.HibernateRunner: 49] Exception occurred
+java.lang.IllegalStateException: org.hibernate.TransientObjectException: Persistent instance references an unsaved transient instance of 'by.yungchr1sttt.hibernate.entity.Company' (save the transient instance before flushing)
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:140)
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:155)
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:161)
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1452)
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:490)
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:2351)
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2020)
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:379)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:167)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commitNoRollbackOnly(JdbcResourceLocalTransactionCoordinatorImpl.java:249)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:243)
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:90)
+	at by.yungchr1sttt.hibernate.HibernateRunner.main(HibernateRunner.java:46)
+Caused by: org.hibernate.TransientObjectException: Persistent instance references an unsaved transient instance of 'by.yungchr1sttt.hibernate.entity.Company' (save the transient instance before flushing)
+	at org.hibernate.engine.spi.CascadingActions$8.cascade(CascadingActions.java:344)
+	at org.hibernate.engine.spi.CascadingActions$8.cascade(CascadingActions.java:334)
+	at org.hibernate.engine.internal.Cascade.cascadeToOne(Cascade.java:548)
+	at org.hibernate.engine.internal.Cascade.cascadeAssociation(Cascade.java:473)
+	at org.hibernate.engine.internal.Cascade.cascadeProperty(Cascade.java:231)
+	at org.hibernate.engine.internal.Cascade.cascade(Cascade.java:170)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.checkForTransientReferences(AbstractFlushingEventListener.java:151)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.prepareEntityFlushes(AbstractFlushingEventListener.java:140)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.preFlush(AbstractFlushingEventListener.java:90)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.flushEverythingToExecutions(AbstractFlushingEventListener.java:69)
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:38)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:140)
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1448)
+	... 9 more
+[2025-06-30 16:43:32, 476] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 37] User object is transient state: User(id=null, username=ivan@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN, company=Company(id=null, name=Google))
+[2025-06-30 16:43:32, 617] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-06-30 16:43:33, 236] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-06-30 16:43:33, 499] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-06-30 16:43:33, 514] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-06-30 16:43:34, 579] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-06-30 16:43:34, 704] ERROR [by.yungchr1sttt.hibernate.HibernateRunner: 49] Exception occurred
+java.lang.IllegalStateException: org.hibernate.TransientObjectException: Persistent instance references an unsaved transient instance of 'by.yungchr1sttt.hibernate.entity.Company' (save the transient instance before flushing)
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:140)
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:155)
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:161)
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1452)
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:490)
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:2351)
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2020)
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:379)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:167)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commitNoRollbackOnly(JdbcResourceLocalTransactionCoordinatorImpl.java:249)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:243)
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:90)
+	at by.yungchr1sttt.hibernate.HibernateRunner.main(HibernateRunner.java:46)
+Caused by: org.hibernate.TransientObjectException: Persistent instance references an unsaved transient instance of 'by.yungchr1sttt.hibernate.entity.Company' (save the transient instance before flushing)
+	at org.hibernate.engine.spi.CascadingActions$8.cascade(CascadingActions.java:344)
+	at org.hibernate.engine.spi.CascadingActions$8.cascade(CascadingActions.java:334)
+	at org.hibernate.engine.internal.Cascade.cascadeToOne(Cascade.java:548)
+	at org.hibernate.engine.internal.Cascade.cascadeAssociation(Cascade.java:473)
+	at org.hibernate.engine.internal.Cascade.cascadeProperty(Cascade.java:231)
+	at org.hibernate.engine.internal.Cascade.cascade(Cascade.java:170)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.checkForTransientReferences(AbstractFlushingEventListener.java:151)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.prepareEntityFlushes(AbstractFlushingEventListener.java:140)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.preFlush(AbstractFlushingEventListener.java:90)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.flushEverythingToExecutions(AbstractFlushingEventListener.java:69)
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:38)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:140)
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1448)
+	... 9 more
+[2025-06-30 16:46:27, 931] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 37] User object is transient state: User(id=null, username=ivan@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN, company=Company(id=null, name=Google))
+[2025-06-30 16:46:28, 058] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-06-30 16:46:28, 667] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-06-30 16:46:28, 982] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-06-30 16:46:29, 003] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-06-30 16:46:30, 118] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-06-30 16:46:30, 239] ERROR [by.yungchr1sttt.hibernate.HibernateRunner: 49] Exception occurred
+java.lang.IllegalStateException: org.hibernate.TransientObjectException: Persistent instance references an unsaved transient instance of 'by.yungchr1sttt.hibernate.entity.Company' (save the transient instance before flushing)
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:140)
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:155)
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:161)
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1452)
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:490)
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:2351)
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2020)
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:379)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:167)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commitNoRollbackOnly(JdbcResourceLocalTransactionCoordinatorImpl.java:249)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:243)
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:90)
+	at by.yungchr1sttt.hibernate.HibernateRunner.main(HibernateRunner.java:46)
+Caused by: org.hibernate.TransientObjectException: Persistent instance references an unsaved transient instance of 'by.yungchr1sttt.hibernate.entity.Company' (save the transient instance before flushing)
+	at org.hibernate.engine.spi.CascadingActions$8.cascade(CascadingActions.java:344)
+	at org.hibernate.engine.spi.CascadingActions$8.cascade(CascadingActions.java:334)
+	at org.hibernate.engine.internal.Cascade.cascadeToOne(Cascade.java:548)
+	at org.hibernate.engine.internal.Cascade.cascadeAssociation(Cascade.java:473)
+	at org.hibernate.engine.internal.Cascade.cascadeProperty(Cascade.java:231)
+	at org.hibernate.engine.internal.Cascade.cascade(Cascade.java:170)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.checkForTransientReferences(AbstractFlushingEventListener.java:151)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.prepareEntityFlushes(AbstractFlushingEventListener.java:140)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.preFlush(AbstractFlushingEventListener.java:90)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.flushEverythingToExecutions(AbstractFlushingEventListener.java:69)
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:38)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:140)
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1448)
+	... 9 more
+[2025-06-30 16:47:04, 086] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 37] User object is transient state: User(id=null, username=ivan@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN, company=Company(id=null, name=Google))
+[2025-06-30 16:47:04, 212] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-06-30 16:47:04, 774] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-06-30 16:47:05, 161] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-06-30 16:47:05, 177] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-06-30 16:47:06, 251] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-06-30 16:48:12, 753] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 37] User object is transient state: User(id=null, username=ivan1@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN, company=Company(id=null, name=Yandex))
+[2025-06-30 16:48:12, 862] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-06-30 16:48:13, 432] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-06-30 16:48:13, 798] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-06-30 16:48:13, 817] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-06-30 16:48:14, 880] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-06-30 16:50:19, 388] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 37] User object is transient state: User(id=null, username=ivan1@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN, company=Company(id=null, name=Yandex))
+[2025-06-30 16:50:19, 495] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-06-30 16:50:20, 063] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-06-30 16:50:20, 423] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-06-30 16:50:20, 456] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-06-30 16:50:21, 547] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-06-30 16:50:21, 655] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23505
+[2025-06-30 16:50:21, 655] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "company_name_key"
+  Подробности: Ключ "(name)=(Yandex)" уже существует.
+[2025-06-30 16:50:21, 666] ERROR [by.yungchr1sttt.hibernate.HibernateRunner: 49] Exception occurred
+org.hibernate.exception.ConstraintViolationException: could not execute statement [ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "company_name_key"
+  Подробности: Ключ "(name)=(Yandex)" уже существует.] [insert into Company (name) values (?)]
+	at org.hibernate.exception.internal.SQLStateConversionDelegate.convert(SQLStateConversionDelegate.java:73)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:34)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:115)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:193)
+	at org.hibernate.id.insert.GetGeneratedKeysDelegate.performMutation(GetGeneratedKeysDelegate.java:104)
+	at org.hibernate.engine.jdbc.mutation.internal.MutationExecutorSingleNonBatched.performNonBatchedOperations(MutationExecutorSingleNonBatched.java:45)
+	at org.hibernate.engine.jdbc.mutation.internal.AbstractMutationExecutor.execute(AbstractMutationExecutor.java:66)
+	at org.hibernate.engine.jdbc.mutation.internal.AbstractMutationExecutor.execute(AbstractMutationExecutor.java:55)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.doStaticInserts(InsertCoordinatorStandard.java:191)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.coordinateInsert(InsertCoordinatorStandard.java:129)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.insert(InsertCoordinatorStandard.java:92)
+	at org.hibernate.action.internal.EntityIdentityInsertAction.execute(EntityIdentityInsertAction.java:90)
+	at org.hibernate.engine.spi.ActionQueue.execute(ActionQueue.java:680)
+	at org.hibernate.engine.spi.ActionQueue.addResolvedEntityInsertAction(ActionQueue.java:290)
+	at org.hibernate.engine.spi.ActionQueue.addInsertAction(ActionQueue.java:271)
+	at org.hibernate.engine.spi.ActionQueue.addAction(ActionQueue.java:321)
+	at org.hibernate.event.internal.AbstractSaveEventListener.addInsertAction(AbstractSaveEventListener.java:374)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSaveOrReplicate(AbstractSaveEventListener.java:288)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSave(AbstractSaveEventListener.java:218)
+	at org.hibernate.event.internal.AbstractSaveEventListener.saveWithGeneratedId(AbstractSaveEventListener.java:136)
+	at org.hibernate.event.internal.DefaultMergeEventListener.saveTransientEntity(DefaultMergeEventListener.java:375)
+	at org.hibernate.event.internal.DefaultMergeEventListener.entityIsTransient(DefaultMergeEventListener.java:296)
+	at org.hibernate.event.internal.DefaultMergeEventListener.merge(DefaultMergeEventListener.java:208)
+	at org.hibernate.event.internal.DefaultMergeEventListener.doMerge(DefaultMergeEventListener.java:149)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:133)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:151)
+	at org.hibernate.internal.SessionImpl.fireMerge(SessionImpl.java:823)
+	at org.hibernate.internal.SessionImpl.merge(SessionImpl.java:794)
+	at org.hibernate.engine.spi.CascadingActions$5.cascade(CascadingActions.java:220)
+	at org.hibernate.engine.spi.CascadingActions$5.cascade(CascadingActions.java:210)
+	at org.hibernate.engine.internal.Cascade.cascadeToOne(Cascade.java:548)
+	at org.hibernate.engine.internal.Cascade.cascadeAssociation(Cascade.java:473)
+	at org.hibernate.engine.internal.Cascade.cascadeProperty(Cascade.java:231)
+	at org.hibernate.engine.internal.Cascade.cascade(Cascade.java:170)
+	at org.hibernate.event.internal.AbstractSaveEventListener.cascadeBeforeSave(AbstractSaveEventListener.java:470)
+	at org.hibernate.event.internal.DefaultMergeEventListener.entityIsTransient(DefaultMergeEventListener.java:293)
+	at org.hibernate.event.internal.DefaultMergeEventListener.merge(DefaultMergeEventListener.java:208)
+	at org.hibernate.event.internal.DefaultMergeEventListener.doMerge(DefaultMergeEventListener.java:149)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:133)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:89)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:140)
+	at org.hibernate.internal.SessionImpl.fireMerge(SessionImpl.java:802)
+	at org.hibernate.internal.SessionImpl.merge(SessionImpl.java:788)
+	at by.yungchr1sttt.hibernate.HibernateRunner.main(HibernateRunner.java:45)
+Caused by: org.postgresql.util.PSQLException: ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "company_name_key"
+  Подробности: Ключ "(name)=(Yandex)" уже существует.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2734)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2421)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:372)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:518)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:435)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:196)
+	at org.postgresql.jdbc.PgPreparedStatement.executeUpdate(PgPreparedStatement.java:157)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:190)
+	... 40 more
+[2025-06-30 16:50:39, 028] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 37] User object is transient state: User(id=null, username=ivan2@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN, company=Company(id=null, name=Mail))
+[2025-06-30 16:50:39, 138] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-06-30 16:50:39, 697] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-06-30 16:50:40, 075] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-06-30 16:50:40, 099] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-06-30 16:50:41, 154] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 14:47:25, 326] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 37] User object is transient state: User(id=null, username=ivan2@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN, company=Company(id=null, name=Mail))
+[2025-07-01 14:47:25, 457] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 14:47:26, 144] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 14:47:26, 456] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 14:47:26, 477] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 14:47:27, 641] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 14:47:27, 789] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23505
+[2025-07-01 14:47:27, 789] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "company_name_key"
+  Подробности: Ключ "(name)=(Mail)" уже существует.
+[2025-07-01 14:47:27, 797] ERROR [by.yungchr1sttt.hibernate.HibernateRunner: 52] Exception occurred
+org.hibernate.exception.ConstraintViolationException: could not execute statement [ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "company_name_key"
+  Подробности: Ключ "(name)=(Mail)" уже существует.] [insert into Company (name) values (?)]
+	at org.hibernate.exception.internal.SQLStateConversionDelegate.convert(SQLStateConversionDelegate.java:73)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:34)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:115)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:193)
+	at org.hibernate.id.insert.GetGeneratedKeysDelegate.performMutation(GetGeneratedKeysDelegate.java:104)
+	at org.hibernate.engine.jdbc.mutation.internal.MutationExecutorSingleNonBatched.performNonBatchedOperations(MutationExecutorSingleNonBatched.java:45)
+	at org.hibernate.engine.jdbc.mutation.internal.AbstractMutationExecutor.execute(AbstractMutationExecutor.java:66)
+	at org.hibernate.engine.jdbc.mutation.internal.AbstractMutationExecutor.execute(AbstractMutationExecutor.java:55)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.doStaticInserts(InsertCoordinatorStandard.java:191)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.coordinateInsert(InsertCoordinatorStandard.java:129)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.insert(InsertCoordinatorStandard.java:92)
+	at org.hibernate.action.internal.EntityIdentityInsertAction.execute(EntityIdentityInsertAction.java:90)
+	at org.hibernate.engine.spi.ActionQueue.execute(ActionQueue.java:680)
+	at org.hibernate.engine.spi.ActionQueue.addResolvedEntityInsertAction(ActionQueue.java:290)
+	at org.hibernate.engine.spi.ActionQueue.addInsertAction(ActionQueue.java:271)
+	at org.hibernate.engine.spi.ActionQueue.addAction(ActionQueue.java:321)
+	at org.hibernate.event.internal.AbstractSaveEventListener.addInsertAction(AbstractSaveEventListener.java:374)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSaveOrReplicate(AbstractSaveEventListener.java:288)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSave(AbstractSaveEventListener.java:218)
+	at org.hibernate.event.internal.AbstractSaveEventListener.saveWithGeneratedId(AbstractSaveEventListener.java:136)
+	at org.hibernate.event.internal.DefaultMergeEventListener.saveTransientEntity(DefaultMergeEventListener.java:375)
+	at org.hibernate.event.internal.DefaultMergeEventListener.entityIsTransient(DefaultMergeEventListener.java:296)
+	at org.hibernate.event.internal.DefaultMergeEventListener.merge(DefaultMergeEventListener.java:208)
+	at org.hibernate.event.internal.DefaultMergeEventListener.doMerge(DefaultMergeEventListener.java:149)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:133)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:151)
+	at org.hibernate.internal.SessionImpl.fireMerge(SessionImpl.java:823)
+	at org.hibernate.internal.SessionImpl.merge(SessionImpl.java:794)
+	at org.hibernate.engine.spi.CascadingActions$5.cascade(CascadingActions.java:220)
+	at org.hibernate.engine.spi.CascadingActions$5.cascade(CascadingActions.java:210)
+	at org.hibernate.engine.internal.Cascade.cascadeToOne(Cascade.java:548)
+	at org.hibernate.engine.internal.Cascade.cascadeAssociation(Cascade.java:473)
+	at org.hibernate.engine.internal.Cascade.cascadeProperty(Cascade.java:231)
+	at org.hibernate.engine.internal.Cascade.cascade(Cascade.java:170)
+	at org.hibernate.event.internal.AbstractSaveEventListener.cascadeBeforeSave(AbstractSaveEventListener.java:470)
+	at org.hibernate.event.internal.DefaultMergeEventListener.entityIsTransient(DefaultMergeEventListener.java:293)
+	at org.hibernate.event.internal.DefaultMergeEventListener.merge(DefaultMergeEventListener.java:208)
+	at org.hibernate.event.internal.DefaultMergeEventListener.doMerge(DefaultMergeEventListener.java:149)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:133)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:89)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:140)
+	at org.hibernate.internal.SessionImpl.fireMerge(SessionImpl.java:802)
+	at org.hibernate.internal.SessionImpl.merge(SessionImpl.java:788)
+	at by.yungchr1sttt.hibernate.HibernateRunner.main(HibernateRunner.java:48)
+Caused by: org.postgresql.util.PSQLException: ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "company_name_key"
+  Подробности: Ключ "(name)=(Mail)" уже существует.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2734)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2421)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:372)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:518)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:435)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:196)
+	at org.postgresql.jdbc.PgPreparedStatement.executeUpdate(PgPreparedStatement.java:157)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:190)
+	... 40 more
+[2025-07-01 14:48:29, 080] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 37] User object is transient state: User(id=null, username=ivan2@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN, company=Company(id=null, name=Mail))
+[2025-07-01 14:48:29, 192] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 14:48:29, 772] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 14:48:30, 043] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 14:48:30, 063] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 14:48:31, 120] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 14:48:31, 255] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23505
+[2025-07-01 14:48:31, 255] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "users_username_key"
+  Подробности: Ключ "(username)=(ivan2@mail.ru)" уже существует.
+[2025-07-01 14:48:31, 264] ERROR [by.yungchr1sttt.hibernate.HibernateRunner: 52] Exception occurred
+org.hibernate.exception.ConstraintViolationException: could not execute statement [ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "users_username_key"
+  Подробности: Ключ "(username)=(ivan2@mail.ru)" уже существует.] [insert into public.users (company_id,birth_date,firstName,lastName,role,username) values (?,?,?,?,?,?)]
+	at org.hibernate.exception.internal.SQLStateConversionDelegate.convert(SQLStateConversionDelegate.java:73)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:34)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:115)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:193)
+	at org.hibernate.id.insert.GetGeneratedKeysDelegate.performMutation(GetGeneratedKeysDelegate.java:104)
+	at org.hibernate.engine.jdbc.mutation.internal.MutationExecutorSingleNonBatched.performNonBatchedOperations(MutationExecutorSingleNonBatched.java:45)
+	at org.hibernate.engine.jdbc.mutation.internal.AbstractMutationExecutor.execute(AbstractMutationExecutor.java:66)
+	at org.hibernate.engine.jdbc.mutation.internal.AbstractMutationExecutor.execute(AbstractMutationExecutor.java:55)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.doStaticInserts(InsertCoordinatorStandard.java:191)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.coordinateInsert(InsertCoordinatorStandard.java:129)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.insert(InsertCoordinatorStandard.java:92)
+	at org.hibernate.action.internal.EntityIdentityInsertAction.execute(EntityIdentityInsertAction.java:90)
+	at org.hibernate.engine.spi.ActionQueue.execute(ActionQueue.java:680)
+	at org.hibernate.engine.spi.ActionQueue.addResolvedEntityInsertAction(ActionQueue.java:290)
+	at org.hibernate.engine.spi.ActionQueue.addInsertAction(ActionQueue.java:271)
+	at org.hibernate.engine.spi.ActionQueue.addAction(ActionQueue.java:321)
+	at org.hibernate.event.internal.AbstractSaveEventListener.addInsertAction(AbstractSaveEventListener.java:374)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSaveOrReplicate(AbstractSaveEventListener.java:288)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSave(AbstractSaveEventListener.java:218)
+	at org.hibernate.event.internal.AbstractSaveEventListener.saveWithGeneratedId(AbstractSaveEventListener.java:136)
+	at org.hibernate.event.internal.DefaultMergeEventListener.saveTransientEntity(DefaultMergeEventListener.java:375)
+	at org.hibernate.event.internal.DefaultMergeEventListener.entityIsTransient(DefaultMergeEventListener.java:296)
+	at org.hibernate.event.internal.DefaultMergeEventListener.merge(DefaultMergeEventListener.java:208)
+	at org.hibernate.event.internal.DefaultMergeEventListener.doMerge(DefaultMergeEventListener.java:149)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:133)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:89)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:140)
+	at org.hibernate.internal.SessionImpl.fireMerge(SessionImpl.java:802)
+	at org.hibernate.internal.SessionImpl.merge(SessionImpl.java:788)
+	at by.yungchr1sttt.hibernate.HibernateRunner.main(HibernateRunner.java:48)
+Caused by: org.postgresql.util.PSQLException: ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "users_username_key"
+  Подробности: Ключ "(username)=(ivan2@mail.ru)" уже существует.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2734)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2421)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:372)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:518)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:435)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:196)
+	at org.postgresql.jdbc.PgPreparedStatement.executeUpdate(PgPreparedStatement.java:157)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:190)
+	... 26 more
+[2025-07-01 14:49:33, 426] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 37] User object is transient state: User(id=null, username=ivan2@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN, company=Company(id=null, name=Mail))
+[2025-07-01 14:49:33, 547] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 14:49:34, 121] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 14:49:34, 388] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 14:49:34, 407] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 14:49:35, 471] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 14:49:35, 607] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23505
+[2025-07-01 14:49:35, 608] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "users_username_key"
+  Подробности: Ключ "(username)=(ivan2@mail.ru)" уже существует.
+[2025-07-01 14:49:35, 616] ERROR [by.yungchr1sttt.hibernate.HibernateRunner: 52] Exception occurred
+org.hibernate.exception.ConstraintViolationException: could not execute statement [ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "users_username_key"
+  Подробности: Ключ "(username)=(ivan2@mail.ru)" уже существует.] [insert into public.users (company_id,birth_date,firstName,lastName,role,username) values (?,?,?,?,?,?)]
+	at org.hibernate.exception.internal.SQLStateConversionDelegate.convert(SQLStateConversionDelegate.java:73)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:34)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:115)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:193)
+	at org.hibernate.id.insert.GetGeneratedKeysDelegate.performMutation(GetGeneratedKeysDelegate.java:104)
+	at org.hibernate.engine.jdbc.mutation.internal.MutationExecutorSingleNonBatched.performNonBatchedOperations(MutationExecutorSingleNonBatched.java:45)
+	at org.hibernate.engine.jdbc.mutation.internal.AbstractMutationExecutor.execute(AbstractMutationExecutor.java:66)
+	at org.hibernate.engine.jdbc.mutation.internal.AbstractMutationExecutor.execute(AbstractMutationExecutor.java:55)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.doStaticInserts(InsertCoordinatorStandard.java:191)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.coordinateInsert(InsertCoordinatorStandard.java:129)
+	at org.hibernate.persister.entity.mutation.InsertCoordinatorStandard.insert(InsertCoordinatorStandard.java:92)
+	at org.hibernate.action.internal.EntityIdentityInsertAction.execute(EntityIdentityInsertAction.java:90)
+	at org.hibernate.engine.spi.ActionQueue.execute(ActionQueue.java:680)
+	at org.hibernate.engine.spi.ActionQueue.addResolvedEntityInsertAction(ActionQueue.java:290)
+	at org.hibernate.engine.spi.ActionQueue.addInsertAction(ActionQueue.java:271)
+	at org.hibernate.engine.spi.ActionQueue.addAction(ActionQueue.java:321)
+	at org.hibernate.event.internal.AbstractSaveEventListener.addInsertAction(AbstractSaveEventListener.java:374)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSaveOrReplicate(AbstractSaveEventListener.java:288)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSave(AbstractSaveEventListener.java:218)
+	at org.hibernate.event.internal.AbstractSaveEventListener.saveWithGeneratedId(AbstractSaveEventListener.java:136)
+	at org.hibernate.event.internal.DefaultMergeEventListener.saveTransientEntity(DefaultMergeEventListener.java:375)
+	at org.hibernate.event.internal.DefaultMergeEventListener.entityIsTransient(DefaultMergeEventListener.java:296)
+	at org.hibernate.event.internal.DefaultMergeEventListener.merge(DefaultMergeEventListener.java:208)
+	at org.hibernate.event.internal.DefaultMergeEventListener.doMerge(DefaultMergeEventListener.java:149)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:133)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:89)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:140)
+	at org.hibernate.internal.SessionImpl.fireMerge(SessionImpl.java:802)
+	at org.hibernate.internal.SessionImpl.merge(SessionImpl.java:788)
+	at by.yungchr1sttt.hibernate.HibernateRunner.main(HibernateRunner.java:48)
+Caused by: org.postgresql.util.PSQLException: ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "users_username_key"
+  Подробности: Ключ "(username)=(ivan2@mail.ru)" уже существует.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2734)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2421)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:372)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:518)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:435)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:196)
+	at org.postgresql.jdbc.PgPreparedStatement.executeUpdate(PgPreparedStatement.java:157)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:190)
+	... 26 more
+[2025-07-01 14:50:24, 537] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 37] User object is transient state: User(id=null, username=ivan2@mail.ru, personalInfo=PersonalInfo(firstName=ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2000-01-01]), role=ADMIN, company=Company(id=null, name=Mail))
+[2025-07-01 14:50:24, 663] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 14:50:25, 255] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 14:50:25, 525] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 14:50:25, 546] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 14:50:26, 639] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 15:12:48, 589] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 15:12:49, 170] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 15:12:49, 432] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 15:12:49, 455] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 15:12:50, 615] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 15:19:11, 544] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 15:19:12, 139] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 15:19:12, 508] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 15:19:12, 531] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 15:19:13, 693] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 16:47:34, 005] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 16:47:34, 621] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 16:47:34, 910] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 16:47:34, 937] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 16:47:36, 087] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 16:49:31, 127] INFO [by.yungchr1sttt.hibernate.HibernateRunner: 37] User object is transient state: User(id=null, username=ivan52@mail.ru, personalInfo=PersonalInfo(firstName=Ivan, lastName=Ivanov, birthDate=Birthday[birthDate=2002-01-01]), role=ADMIN)
+[2025-07-01 16:49:31, 235] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 16:49:31, 808] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 16:49:32, 182] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 16:49:32, 201] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 16:49:33, 273] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 16:51:21, 650] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 16:51:22, 319] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 16:51:22, 589] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 16:51:22, 612] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 16:51:23, 778] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 16:51:59, 362] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 16:51:59, 977] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 16:52:00, 251] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 16:52:00, 272] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 16:52:01, 416] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 16:58:27, 597] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 16:58:28, 204] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 16:58:28, 579] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 16:58:28, 601] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 16:58:29, 834] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 17:54:18, 405] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 17:54:19, 040] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 17:54:19, 421] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 17:54:19, 443] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 17:54:20, 659] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 17:54:20, 765] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23505
+[2025-07-01 17:54:20, 765] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "company_name_key"
+  Подробности: Ключ "(name)=(Yandex)" уже существует.
+[2025-07-01 17:55:05, 561] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 17:55:06, 182] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 17:55:06, 459] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 17:55:06, 482] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 17:55:07, 643] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-01 17:57:20, 883] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-01 17:57:21, 494] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-01 17:57:21, 860] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-01 17:57:21, 881] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-01 17:57:23, 035] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-02 14:24:54, 004] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-02 14:24:54, 690] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-02 14:24:55, 000] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-02 14:24:55, 022] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-02 14:24:56, 279] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-02 14:29:39, 294] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-02 14:29:39, 940] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-02 14:29:40, 324] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-02 14:29:40, 349] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-02 14:29:41, 585] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-02 14:31:19, 097] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-02 14:31:19, 700] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-02 14:31:19, 965] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-02 14:31:19, 987] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-02 14:31:21, 133] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-02 15:42:11, 412] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-02 15:42:12, 054] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-02 15:42:12, 338] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-02 15:42:12, 361] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-02 15:42:13, 614] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-02 15:44:23, 595] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-02 15:44:24, 236] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-02 15:44:24, 513] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-02 15:44:24, 536] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-02 15:44:25, 760] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-02 15:54:16, 572] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-02 15:54:17, 188] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-02 15:54:17, 456] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-02 15:54:17, 479] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-02 15:54:18, 658] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-02 16:23:44, 953] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-02 16:23:45, 546] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-02 16:23:45, 921] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-02 16:23:45, 944] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-02 16:23:47, 145] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-02 16:49:52, 566] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-02 16:49:53, 202] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-02 16:49:53, 483] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-02 16:49:53, 505] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-02 16:49:54, 706] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-02 16:49:54, 865] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 42P01
+[2025-07-02 16:49:54, 866] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: отношение "userchat" не существует
+  Позиция: 13
+[2025-07-02 16:50:42, 567] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-02 16:50:43, 170] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-02 16:50:43, 532] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-02 16:50:43, 557] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-02 16:50:44, 830] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-02 16:50:44, 988] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 42703
+[2025-07-02 16:50:44, 988] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: столбец "createdat" в таблице "users_chat" не существует
+  Позиция: 33
+[2025-07-02 16:51:40, 125] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-02 16:51:40, 747] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-02 16:51:41, 007] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-02 16:51:41, 029] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-02 16:51:42, 290] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 14:21:43, 719] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 14:21:44, 405] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 14:21:44, 720] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 14:21:44, 741] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 14:21:46, 223] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 14:23:00, 819] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 14:23:01, 415] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 14:23:01, 687] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 14:23:01, 708] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 14:23:02, 900] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 14:24:57, 714] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 14:24:58, 333] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 14:24:58, 591] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 14:24:58, 612] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 14:24:59, 839] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 14:25:14, 049] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 14:25:14, 657] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 14:25:14, 920] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 14:25:14, 943] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 14:25:16, 191] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 14:25:16, 293] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23505
+[2025-07-03 14:25:16, 293] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "courses_course_name_key"
+  Подробности: Ключ "(course_name)=(Java Enterprise)" уже существует.
+[2025-07-03 14:25:54, 413] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 14:25:55, 020] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 14:25:55, 282] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 14:25:55, 303] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 14:25:56, 494] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 14:25:56, 589] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23505
+[2025-07-03 14:25:56, 590] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "courses_course_name_key"
+  Подробности: Ключ "(course_name)=(Java Enterprise)" уже существует.
+[2025-07-03 14:26:55, 471] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 14:26:56, 074] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 14:26:56, 338] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 14:26:56, 362] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 14:26:57, 627] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 14:26:57, 692] WARN [org.hibernate.action.internal.UnresolvedEntityInsertActions: 148] HHH000437: Attempting to save one or more entities that have a non-nullable association with an unsaved transient entity.
+The unsaved transient entity must be saved in an operation prior to saving these dependent entities.
+	Unsaved transient entity: [by.yungchr1sttt.hibernate.entity.Course with null id]
+	Dependent entities: [[by.yungchr1sttt.hibernate.entity.Student with null id]]
+	Non-nullable associations: [by.yungchr1sttt.hibernate.entity.Student.course]
+[2025-07-03 14:27:18, 181] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 14:27:18, 786] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 14:27:19, 074] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 14:27:19, 103] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 14:27:20, 325] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 14:27:20, 421] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23505
+[2025-07-03 14:27:20, 421] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "courses_course_name_key"
+  Подробности: Ключ "(course_name)=(Java Enterprise)" уже существует.
+[2025-07-03 14:32:28, 887] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 14:32:29, 487] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 14:32:29, 855] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 14:32:29, 877] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 14:32:31, 161] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 14:32:31, 261] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23505
+[2025-07-03 14:32:31, 261] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "courses_course_name_key"
+  Подробности: Ключ "(course_name)=(Java Enterprise)" уже существует.
+[2025-07-03 16:47:02, 167] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 16:47:02, 814] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 16:47:03, 111] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 16:47:03, 134] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 16:47:04, 346] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 16:47:04, 442] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23505
+[2025-07-03 16:47:04, 442] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "courses_course_name_key"
+  Подробности: Ключ "(course_name)=(Java Enterprise)" уже существует.
+[2025-07-03 16:49:57, 874] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 16:49:58, 472] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 16:49:58, 739] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 16:49:58, 762] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 16:50:45, 958] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 16:50:46, 561] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 16:50:46, 826] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 16:50:46, 849] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 16:54:52, 263] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 16:54:52, 872] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 16:54:53, 136] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 16:54:53, 158] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 16:54:54, 453] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 16:54:54, 547] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23505
+[2025-07-03 16:54:54, 548] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "courses_course_name_key"
+  Подробности: Ключ "(course_name)=(Java Enterprise)" уже существует.
+[2025-07-03 17:02:04, 389] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 17:02:04, 997] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 17:02:05, 264] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 17:02:05, 286] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 17:02:06, 516] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 17:02:06, 612] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23505
+[2025-07-03 17:02:06, 613] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: повторяющееся значение ключа нарушает ограничение уникальности "courses_course_name_key"
+  Подробности: Ключ "(course_name)=(Java Enterprise)" уже существует.
+[2025-07-03 17:04:26, 597] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 17:04:27, 207] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 17:04:27, 573] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 17:04:27, 593] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 17:04:28, 798] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 17:04:28, 870] WARN [org.hibernate.action.internal.UnresolvedEntityInsertActions: 148] HHH000437: Attempting to save one or more entities that have a non-nullable association with an unsaved transient entity.
+The unsaved transient entity must be saved in an operation prior to saving these dependent entities.
+	Unsaved transient entity: [by.yungchr1sttt.hibernate.entity.Course with null id]
+	Dependent entities: [[by.yungchr1sttt.hibernate.entity.Student with null id]]
+	Non-nullable associations: [by.yungchr1sttt.hibernate.entity.Student.course]
+[2025-07-03 17:10:16, 686] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 17:10:17, 285] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 17:10:17, 554] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 17:10:17, 576] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 17:10:18, 794] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 17:13:15, 597] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 17:13:16, 197] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 17:13:16, 466] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 17:13:16, 487] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 17:13:17, 750] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 17:13:49, 415] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 17:13:50, 056] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 17:13:50, 318] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 17:13:50, 341] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 17:13:51, 586] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 17:14:39, 381] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 17:14:39, 990] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 17:14:40, 266] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 17:14:40, 289] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 17:14:41, 550] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 19:26:38, 199] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 19:26:38, 839] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 19:26:39, 118] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 19:26:39, 145] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 19:27:34, 915] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 19:27:35, 523] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 19:27:35, 780] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 19:27:35, 802] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 19:30:58, 058] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 19:30:58, 718] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 19:30:58, 994] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 19:30:59, 016] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 19:31:00, 273] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 19:35:27, 750] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 19:35:28, 365] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 19:35:28, 627] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 19:35:28, 650] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 19:35:29, 918] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 19:35:30, 060] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 42P01
+[2025-07-03 19:35:30, 060] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: отношение "studentprofile" не существует
+  Позиция: 13
+[2025-07-03 19:36:22, 439] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 19:36:23, 044] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 19:36:23, 310] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 19:36:23, 333] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 19:36:24, 618] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 19:41:22, 458] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 19:41:23, 106] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 19:41:23, 476] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 19:41:23, 497] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 19:41:24, 767] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 19:41:24, 914] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 42P01
+[2025-07-03 19:41:24, 915] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: отношение "studentprofile" не существует
+  Позиция: 13
+[2025-07-03 19:43:42, 303] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 19:43:42, 910] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 19:43:43, 168] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 19:43:43, 193] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 19:43:44, 479] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 19:43:44, 623] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23502
+[2025-07-03 19:43:44, 624] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: значение NULL в столбце "student_id" отношения "student_profile" нарушает ограничение NOT NULL
+  Подробности: Ошибочная строка содержит (1, The Best, 95, Excellent student, null).
+[2025-07-03 19:46:37, 839] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 19:46:38, 448] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 19:46:38, 717] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 19:46:38, 740] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 19:46:39, 981] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 19:46:40, 132] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23502
+[2025-07-03 19:46:40, 132] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: значение NULL в столбце "student_id" отношения "student_profile" нарушает ограничение NOT NULL
+  Подробности: Ошибочная строка содержит (2, The Best, 95, Excellent student, null).
+[2025-07-03 19:48:58, 273] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 19:48:58, 879] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 19:48:59, 256] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 19:48:59, 277] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 19:51:22, 751] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 19:51:23, 372] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 19:51:23, 643] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 19:51:23, 664] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 19:51:24, 925] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-03 19:51:25, 077] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 0, SQLState: 23502
+[2025-07-03 19:51:25, 077] WARN [org.hibernate.orm.jdbc.error: 144] ОШИБКА: значение NULL в столбце "student_id" отношения "student_profile" нарушает ограничение NOT NULL
+  Подробности: Ошибочная строка содержит (3, The Best, 95, Excellent student, null).
+[2025-07-03 19:53:15, 214] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-03 19:53:15, 817] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-03 19:53:16, 090] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-03 19:53:16, 112] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-03 19:53:17, 398] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-04 14:00:07, 627] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-04 14:00:08, 298] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-04 14:00:08, 475] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-04 14:00:08, 564] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:h2:mem:yungchr1sttt]
+	Database driver: org.h2.Driver
+	Database version: 2.3.232
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-04 14:00:09, 954] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-04 14:00:09, 979] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2dbf2da] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 14:00:09, 990] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@a047bdb] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 14:07:06, 835] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-04 14:07:07, 448] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-04 14:07:07, 614] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-04 14:07:07, 702] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:h2:mem:yungchr1sttt]
+	Database driver: org.h2.Driver
+	Database version: 2.3.232
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-04 14:07:08, 995] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-04 14:07:09, 022] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@280d5a82] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 14:07:09, 032] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@19647566] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 14:16:06, 379] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-04 14:16:06, 990] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-04 14:16:07, 154] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-04 14:16:07, 241] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:h2:mem:yungchr1sttt]
+	Database driver: org.h2.Driver
+	Database version: 2.3.232
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-04 14:16:08, 570] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-04 14:16:08, 594] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7b3feb26] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 14:16:08, 605] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7645b7d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 14:54:55, 978] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-04 14:54:56, 657] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-04 14:54:56, 855] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-04 14:54:56, 954] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:h2:mem:yungchr1sttt]
+	Database driver: org.h2.Driver
+	Database version: 2.3.232
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-04 14:54:58, 999] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-04 14:54:59, 026] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@19a7906c] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 14:54:59, 035] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5891b7c5] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 14:55:46, 213] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-04 14:55:46, 885] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-04 14:55:47, 095] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-04 14:55:47, 182] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:h2:mem:yungchr1sttt]
+	Database driver: org.h2.Driver
+	Database version: 2.3.232
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-04 14:55:48, 712] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-04 14:55:48, 736] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@59e0d521] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 14:55:48, 744] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@cf984d9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 14:56:15, 847] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-04 14:56:16, 634] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-04 14:56:16, 857] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-04 14:56:16, 959] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:h2:mem:yungchr1sttt]
+	Database driver: org.h2.Driver
+	Database version: 2.3.232
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-04 14:56:18, 632] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-04 14:56:18, 666] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@19739906] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 14:56:18, 679] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fafa7b5] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 15:04:58, 364] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-04 15:04:58, 973] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-04 15:04:59, 171] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-04 15:04:59, 263] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:h2:mem:yungchr1sttt]
+	Database driver: org.h2.Driver
+	Database version: 2.3.232
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-04 15:05:00, 661] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-04 15:05:00, 685] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@341ccfd1] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 15:05:00, 693] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@714bffd5] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 15:35:21, 023] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-04 15:35:21, 631] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-04 15:35:21, 798] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-04 15:35:21, 886] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:h2:mem:yungchr1sttt]
+	Database driver: org.h2.Driver
+	Database version: 2.3.232
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-04 15:35:23, 240] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-04 15:35:23, 265] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@717a8a76] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 15:35:23, 273] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1c0e4262] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 15:37:29, 870] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-04 15:37:30, 475] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-04 15:37:30, 642] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-04 15:37:30, 730] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:h2:mem:yungchr1sttt]
+	Database driver: org.h2.Driver
+	Database version: 2.3.232
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-04 15:37:32, 039] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-04 15:37:32, 061] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@66b31d46] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 15:37:32, 068] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@553fbe94] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-04 15:40:16, 834] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-04 15:40:17, 457] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-04 15:40:17, 627] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-04 15:40:17, 713] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:h2:mem:yungchr1sttt]
+	Database driver: org.h2.Driver
+	Database version: 2.3.232
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-04 15:40:19, 015] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-04 15:40:19, 453] WARN [org.hibernate.orm.jdbc.error: 143] HHH000247: ErrorCode: 42102, SQLState: 42S02
+[2025-07-04 15:40:19, 453] WARN [org.hibernate.orm.jdbc.error: 144] Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+select u1_0.id,u1_0.company_id,u1_0.birth_date,u1_0.firstName,u1_0.lastName,u1_0.role,u1_0.username from public.users u1_0 [42102-232]
+[2025-07-05 15:02:03, 872] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-05 15:02:04, 547] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-05 15:02:04, 850] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-05 15:02:04, 874] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-05 15:02:06, 309] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-05 15:02:31, 935] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-05 15:02:32, 579] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-05 15:02:32, 960] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-05 15:02:32, 984] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-05 15:03:20, 482] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-05 15:03:21, 092] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-05 15:03:21, 355] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-05 15:03:21, 377] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-05 15:03:22, 722] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-05 15:09:16, 654] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-05 15:09:17, 287] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-05 15:09:17, 666] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-05 15:09:17, 689] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-05 15:09:19, 038] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-05 15:22:07, 733] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-05 15:22:08, 350] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-05 15:22:08, 626] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-05 15:22:08, 648] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-05 15:22:09, 968] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-05 15:52:37, 369] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-05 15:52:38, 075] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-05 15:52:38, 388] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-05 15:52:38, 411] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-05 15:52:39, 869] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-05 16:15:23, 769] INFO [org.hibernate.jpa.internal.util.LogHelper: 30] HHH000204: Processing PersistenceUnitInfo [name: myJpaUnit]
+[2025-07-05 16:15:23, 833] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-05 16:15:24, 211] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-05 16:15:24, 604] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-05 16:15:24, 628] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-05 16:15:25, 983] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-05 16:15:26, 009] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7bce9ce4] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-05 16:15:26, 934] WARN [org.hibernate.orm.deprecation: 347] HHH90000021: Encountered deprecated setting [javax.persistence.fetchgraph], use [jakarta.persistence.fetchgraph] instead
+[2025-07-05 16:18:46, 336] INFO [org.hibernate.jpa.internal.util.LogHelper: 30] HHH000204: Processing PersistenceUnitInfo [name: myJpaUnit]
+[2025-07-05 16:18:46, 402] INFO [org.hibernate.Version: 45] HHH000412: Hibernate ORM core version 7.0.3.Final
+[2025-07-05 16:18:46, 785] WARN [org.hibernate.orm.connections.pooling: 84] HHH10001002: Using built-in connection pool (not intended for production use)
+[2025-07-05 16:18:47, 161] WARN [org.hibernate.orm.deprecation: 152] HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2025-07-05 16:18:47, 184] INFO [org.hibernate.orm.connections.pooling: 182] HHH10001005: Database info:
+	Database JDBC URL [jdbc:postgresql://localhost:5432/hibernate]
+	Database driver: org.postgresql.Driver
+	Database version: 17.4
+	Autocommit mode: false
+	Isolation level: undefined/unknown
+	Pool: DriverManagerConnectionProviderImpl
+	Minimum pool size: 1
+	Maximum pool size: 20
+[2025-07-05 16:18:48, 570] INFO [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator: 58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2025-07-05 16:18:48, 598] INFO [org.hibernate.orm.connections.access: 50] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6d617b07] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[2025-07-05 16:18:49, 465] WARN [org.hibernate.orm.deprecation: 347] HHH90000021: Encountered deprecated setting [javax.persistence.fetchgraph], use [jakarta.persistence.fetchgraph] instead
